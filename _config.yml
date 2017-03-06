@@ -1,1 +1,19 @@
+name: Yuka Takahashi's Homepage
 
+description: This is a homepage of Yuka Takahashi.
+
+author: Yuka Takahashi
+
+author_email: yukatkh@gmail.com
+
+category_dir: /
+
+url: http://yamaguchi1024.github.io
+
+markdown: rdiscount
+
+permalink: pretty
+
+paginate: 3
+
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
