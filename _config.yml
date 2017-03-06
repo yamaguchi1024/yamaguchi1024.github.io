@@ -10,8 +10,6 @@ category_dir: /
 
 url: http://yamaguchi1024.github.io
 
-markdown: rdiscount
-
 permalink: pretty
 
 paginate: 3
