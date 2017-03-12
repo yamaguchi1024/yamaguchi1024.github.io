@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: yamaguchi.txt
+logo: /image/yamaguchi.png
+subtitle: pohepohe
+description: Welcome to my homepage. My name is Yuka Takahashi (yamaguchi is my handlename) and I'm a 2nd grade student at the University of Tokyo. You can reach me on Twitter via <a href="https://twitter.com/00_">@00_</a>.
+author: Yuka Takahashi
+language: en
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://yamaguchi1024.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -32,7 +33,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: flexy
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
