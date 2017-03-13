@@ -754,12 +754,10 @@ main article.full {
 main article.full h2 {
     margin: 0;
 }
-/*
 main article.full ul {
 list-style: none;
 padding: 0;
 }
- */
 main article.full a {
     text-decoration: underline;
 }
