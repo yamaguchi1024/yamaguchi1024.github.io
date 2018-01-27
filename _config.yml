@@ -1,4 +1,0 @@
-markdown: kramdown
-kramdown:
-  extensions: ["autolink", "hard_wrap"]
-title: Yuka Takahashi
