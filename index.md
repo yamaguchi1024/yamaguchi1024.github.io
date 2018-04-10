@@ -33,10 +33,15 @@ Research Interests
 - User Interface
 - Graphics
 
-Selected Talks
+Peer Reviewed Talks
 --------
 - [A better shell command-line autocompletion for clang](https://youtu.be/zLPwPdZBpSY)
   LLVM developer's meeting, October 2017
+
+Peer Reviewed Short Papers and Posters
+--------
+- Yuka Takahashi, Vasil Georgiev Vasilev, Raphael Isemann. [Optimizing Frameworks' Performance Using C++ Modules-Aware ROOT](https://indico.cern.ch/event/587955/contributions/2937639/). CHEP 2018 Conference, Sofia, Bulgaria. Poster
+- Shogo Hayashi (Institute of Industrial Science, The University of Tokyo, Japan), Yu Asabe, Keiichi Ishikawa, Yuka Takahashi, Masashi Ikarashi (The University of Tokyo, Japan), Kanta Matsuura (Institute of Industrial Science, The University of Tokyo, Japan). Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting Attacks. IWSEC 2016. Poster
 
 Certificates
 --------
